@@ -1,5 +1,5 @@
 ### Hi there, I'm __Hoojeong__ 👋
-My major is Computer science 🖥  
+My major is computer science 🖥  
 I'm currently learning Swift, Algorithm ✍  
 I will be a __mobile app developer__ using Android, iOS 💖  
 
