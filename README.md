@@ -1,7 +1,7 @@
 ### Hi there, I'm __Hoojeong__ 👋
 My major is computer science 🖥  
 I'm currently learning Swift, Algorithm ✍  
-I will be a __mobile app developer__ using Android and iOS 💖  
+I want to be an Android and iOS app developer 💖 
 
 ### Skills 💪
 
